@@ -3,7 +3,7 @@
 #Add search path to 
 
 #sys.path.append('/home/anshulg/PythonPackages/lib/python')
-
+# The peak detection code is borroed from @endolith (https://gist.github.com/endolith/250860)
 import bs4
 import numpy as np
 #import matplotlib.pyplot as pl
